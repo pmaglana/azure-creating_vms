@@ -1,5 +1,5 @@
 <p>
-  <img width="3840" height="964" alt="AzureLogo" src="https://github.com/user-attachments/assets/ab50d03a-2082-439a-a7e2-1896347dd9f4" />
+ <img width="2544" height="416" alt="azurebanner" src="https://github.com/user-attachments/assets/cb9d9a19-96aa-4948-8d3b-14cf32f312c2" />
 </p>
 
 <h1> Creating a Windows Virtual machine in Azure Portal </h1>
