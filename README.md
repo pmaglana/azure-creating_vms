@@ -79,7 +79,7 @@ The main objective of this project is to familiarize MS Azure's portal and envir
 <img width="1904" height="592" alt="azure-dashboard" src="https://github.com/user-attachments/assets/73e5205c-c73c-4fcf-81d4-460c1a7ad234" />
 
 
-<sub>*Having issues and trouble setting up your virtual machine? Please reach out to paulo@maglana.com*</sub>
+<sub>*Having issues and trouble setting up your virtual machine? Please reach out to easy.patch3668@fastmail.com*</sub>
 
 
 
